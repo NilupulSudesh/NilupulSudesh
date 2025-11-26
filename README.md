@@ -12,3 +12,8 @@ About Me
 
 Trannie software engineer | Love backend & frontend development | Constantly learning and exploring new tools
 Goal: Build real-world projects and level up my full-stack skills
+
+<h2 align="center">Languages and Tools</h2>
+<p align="center">
+<img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,postman,git,figma,vscode,photoshop&perline=9"  />
+</p>
